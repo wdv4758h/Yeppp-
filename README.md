@@ -34,7 +34,7 @@ Yeppp! provides a number of functions to retrieve information about the processo
 Do I have to write in C++ to use Yeppp?
 ---------------------------------------
 
-No. Yeppp! functions can be called from C, C++, C#, Java, FORTRAN.
+No. Yeppp! functions can be called from C, C++, C#, Java, Fortran.
 
 Which architectures and operating systems are supported?
 -----------------------------
